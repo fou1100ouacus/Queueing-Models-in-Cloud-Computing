@@ -1,0 +1,12 @@
+D:\notes\Queue\bin\Debug\Queue.exe.config
+D:\notes\Queue\bin\Debug\Queue.exe
+D:\notes\Queue\bin\Debug\Queue.pdb
+D:\notes\Queue\bin\Debug\Guna.UI2.dll
+D:\notes\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\notes\Queue\obj\Debug\Queue.Form1.resources
+D:\notes\Queue\obj\Debug\Queue.Properties.Resources.resources
+D:\notes\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+D:\notes\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\notes\Queue\obj\Debug\Queue.csproj.CopyComplete
+D:\notes\Queue\obj\Debug\Queue.exe
+D:\notes\Queue\obj\Debug\Queue.pdb
