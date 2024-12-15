@@ -1,0 +1,12 @@
+D:\notes\MMC\MMC\bin\Debug\MMC.exe.config
+D:\notes\MMC\MMC\bin\Debug\MMC.exe
+D:\notes\MMC\MMC\bin\Debug\MMC.pdb
+D:\notes\MMC\MMC\bin\Debug\Guna.UI2.dll
+D:\notes\MMC\MMC\obj\Debug\MMC.csproj.AssemblyReference.cache
+D:\notes\MMC\MMC\obj\Debug\MMC.Form1.resources
+D:\notes\MMC\MMC\obj\Debug\MMC.Properties.Resources.resources
+D:\notes\MMC\MMC\obj\Debug\MMC.csproj.GenerateResource.cache
+D:\notes\MMC\MMC\obj\Debug\MMC.csproj.CoreCompileInputs.cache
+D:\notes\MMC\MMC\obj\Debug\MMC.csproj.CopyComplete
+D:\notes\MMC\MMC\obj\Debug\MMC.exe
+D:\notes\MMC\MMC\obj\Debug\MMC.pdb
