@@ -1,6 +1,5 @@
 # Queueing-Models-in-Cloud-Computing
 
-# Queueing Models
 
 Queueing models are mathematical representations used to analyze and predict the behavior of systems where customers, tasks, or data units arrive, wait, and are served. This project explores different queueing models and their applications in various scenarios, focusing on performance metrics such as waiting times, queue lengths, and system utilization.
  
